@@ -1,7 +1,3 @@
-<div style="text-align:center;font-size:60px;color:#10ab86;line-height:1.2;font-family:Helvetica,Tahoma,Arial;">Sticky Footer</div>
-<!--more-->
-
-
 什么是页脚固定底部的布局？
 
 就从字面上理解，
